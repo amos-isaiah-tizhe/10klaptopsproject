@@ -36,5 +36,3 @@ Buttons and interactions are for display only
 Content is used to showcase UI, not official deployment
 
 Built for learning, practice, and challenge submission 
-
-If you want an even shorter version (2–3 lines only) or a commit message style README, say so and I’ll trim it further.
